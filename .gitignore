@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Claude
+.claude/
+
+# VS Code
+.vscode/
+
+# Build
+dist/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Images (optional - uncomment if you don't want to commit large images)
+# *.png
+# *.jpg
+# *.jpeg
