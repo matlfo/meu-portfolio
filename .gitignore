@@ -7,8 +7,8 @@ node_modules/
 # VS Code
 .vscode/
 
-# Build
-dist/
+# Build (keeping dist for local dev, but committing built files)
+# dist/
 
 # Logs
 *.log
